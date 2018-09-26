@@ -1,1 +1,2 @@
-
+Week 1:
+I learned that HTML is a kind of language that support each website like the bones in human's body. Also HTML have parents and children relationship. Like <head> and <html>, <head> is <html>'s kid so it has to intended 1 tab level in.
